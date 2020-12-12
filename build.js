@@ -8,7 +8,8 @@ const build_object = [
     {
         id: 2,
         person: {
-            name: "tom"
+            name: "tom",
+	    firstname: "test"	
         }
     }
 ]
