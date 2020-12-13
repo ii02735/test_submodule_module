@@ -17,7 +17,7 @@ const build_object = [
         id: 3,
         person: {
             name: "richard",
-	        firstname: "test"	
+	        firstname: "test3"	
         }
     }
 ]
